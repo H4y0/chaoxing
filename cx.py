@@ -319,7 +319,7 @@ def local_run():
 			server_chan_send(result)
 		return result
 	else:
-		return "暂无签到任务"
+		return "暂无签到任务！ "
 
 
 if __name__ == '__main__':
